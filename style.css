@@ -716,6 +716,25 @@ h3 {
     color: #333333!important;
 }
 
+.title_normal {
+    font-size: 1.5em;
+    letter-spacing: normal;
+    line-height: 1.2em;
+}
+
+.title_quote {
+    font-style: italic;
+    font-size: 1.5em;
+    letter-spacing: -0.5px;
+    line-height: 1.2em;
+}
+
+.title_byline {
+    font-size: 1.5em;
+    letter-spacing: -0.5px;
+    line-height: 1.2em;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
